@@ -1,0 +1,22 @@
+{
+    "name": "PlayerController",
+    "maps": [
+        {
+            "name": "Player Movement",
+            "id": "92b19d21-5e5f-4427-a703-429c44c7d126",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "PassThrough",
+                    "id": "e7008c68-cb27-479e-b671-e3929774bede",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
